@@ -1,0 +1,73 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "admin_id": "Pavan",
+      "password": "pavan@123"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user_id": "dheeraj",
+      "user_name": "Dheeraj",
+      "password": "Dheeraj@123",
+      "email": "Dheeraj@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "category_name": "Java"
+    },
+    {
+      "id": 2,
+      "category_id": 2,
+      "category_name": ".NET"
+    },
+    {
+      "id": 3,
+      "category_id": 3,
+      "category_name": "React"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "video_id": 1,
+      "title": "React FAQ's",
+      "url": "https://www.youtube.com/embed/NJVQA10RPuA",
+      "description": "React JS Interview Tips",
+      "category_id": 3,
+      "likes": 300,
+      "views": 600,
+      "dislikes": 0,
+      "comments": "Thank you"
+    },
+    {
+      "video_id": 4,
+      "title": "Java Stream API (Tutorial)",
+      "url": "https://www.youtube.com/embed/Qhe_UsXCfrA",
+      "description": "Java API's  [Tutorial Updated]",
+      "category_id": 1,
+      "likes": 322,
+      "views": 800,
+      "dislikes": 2556,
+      "comments": "thank you for new videos",
+      "id": "b614"
+    },
+    {
+      "id": "f60e",
+      "video_id": 2,
+      "title": ".NET",
+      "url": "https://www.youtube.com/embed/0u9k-kOR3KE",
+      "description": ".Net introduction",
+      "category_id": 2,
+      "likes": 200,
+      "views": 100,
+      "dislikes": 0,
+      "comments": "thank you sir "
+    }
+  ]
+}
